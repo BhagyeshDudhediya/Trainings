@@ -1,0 +1,3 @@
+Welcome to Perl Training!!
+This is the demo file used to learn "how to read file in Perl".
+Thank you!!
