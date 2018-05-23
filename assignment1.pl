@@ -50,7 +50,7 @@ while($temp < $no_of_student){
 print("Student with highest marks: ");
 print Dumper \$students_info[$max_index];
 
-#Get data of spectific user
+#Get data of spectific student
 
 print("enter the name of the student for whose data you want to get: ");
 my $input_name = <STDIN>;

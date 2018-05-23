@@ -1,3 +1,24 @@
 Welcome to Perl Training!!
 This is the demo file used to learn "how to read file in Perl".
-Thank you!!
+Thank you!!Time: Tue May 22 14:18:54 2018
+hi this is tesr log..
+Time: Tue May 22 14:22:56 2018
+hi this is tesr log..
+Time: Tue May 22 14:23:39 2018
+hi this is tesr log..
+Time: Tue May 22 14:28:36 2018
+hi this is tesr log..
+Time: Tue May 22 14:28:50 2018
+hi this is tesr log..
+Time: Tue May 22 14:30:46 2018
+hi this is tesr log..
+Time: Tue May 22 14:31:24 2018
+hi this is tesr log..
+Time: Tue May 22 14:32:47 2018
+hi this is tesr log..
+Time: Tue May 22 14:38:07 2018
+hi this is tesr log..
+Time: Tue May 22 14:39:08 2018
+hi this is tesr log..
+Time: Tue May 22 14:40:58 2018
+hi this is tesr log..
